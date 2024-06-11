@@ -1,0 +1,4 @@
+jsp 프로젝트 익스플로러 빨간 x 뜰 때
+우클릭- build path - library -> java 버전 edit
+project facets -> java 버전 설정
+project runtime -> (톰캣 여러개 구동중일 경우) 맞는 것 설정
